@@ -1,1 +1,2 @@
-# Multi-document-Agentic-RAG
+# Context Augmented Research Assistant 
+## Agentic RAG Implementation 
