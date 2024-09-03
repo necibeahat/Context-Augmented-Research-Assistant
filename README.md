@@ -5,7 +5,7 @@ This is implementation of a virtual assistant based on AV recordings like meetin
 When building an application it is important to think about scalability, availability and resilience of the solution, even for PoCs.  
 
 This is the high level solution architecture that ensures that the solution is fault-tolerant, resilient, highly-available and achieve redundancy. 
-![Solution architecture](SolutionArchitecture.jpg)
+![Solution architecture](images/SolutionArchitecture.jpg)
 ### A Robust and Scalable Application Architecture
 
 This architecture diagram illustrates a well-designed solution, showcasing how various AWS services can be leveraged to create a robust and scalable application.
@@ -35,7 +35,7 @@ This architecture diagram illustrates a well-designed solution, showcasing how v
 This architecture diagram provides a foundation for building a reliable, scalable, and performant application using AWS services.
 
 ### Gen AI Architecture
-![Solution architecture](SolutionArchitecture.jpg)
+![Solution architecture](images/SolutionArchitecture-detailed.jpg)
 
 ## Agentic RAG Implementation 
 
